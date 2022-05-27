@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d3a6616e-7f67-4e2b-8c5d-b5ab00767b74": {
+      "ProjectGuid": "d3a6616e-7f67-4e2b-8c5d-b5ab00767b74",
+      "DisplayName": "Darts",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
